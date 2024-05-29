@@ -50,8 +50,8 @@ section {
 }
 
 section > p {
-    line-height: 40px;
-    padding: 20px;
+    line-height: 75px;
+    padding: 40px;
     color: white;
     font-size: 4vw;
     font-family: var(--fonte1);
