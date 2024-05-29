@@ -57,6 +57,30 @@ section > p {
     font-family: var(--fonte1);
 }
 
+section.img {
+    margin-top: 0px;
+    border-radius: 0%;
+    background-attachment: fixed;
+}
+
+section#violao {
+    background-image: url('imagens/violao.jpg');
+}
+
+section#livro {
+    background-image: url('imagens/livro.jpg');
+    background-position: center left;
+}
+
+section#sol {
+    background-image: url('imagens/sol.jpg');
+    background-position: center center;
+}
+
+section.img > p {
+    background-color: rgba(0, 0, 0, 0.308);
+}
+
 section.video {
     max-width: 530px;
     height: 350px;
