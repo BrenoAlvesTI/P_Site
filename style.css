@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 :root {
-    --fonte1: "Edu TAS Beginner", cursive; 
+    --fonte1: "Indie Flower", cursive;
 
     --cor1: #23606E;
     --cor2: #FACFCE;
@@ -53,7 +53,7 @@ section > p {
     line-height: 40px;
     padding: 20px;
     color: white;
-    font-size: 3vw;
+    font-size: 4vw;
     font-family: var(--fonte1);
 }
 
